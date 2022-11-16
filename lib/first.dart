@@ -12,7 +12,7 @@ class first extends StatelessWidget {
       appBar: AppBar(
         toolbarHeight: 80,
         centerTitle: true,
-        backgroundColor: Colors.black87,
+        backgroundColor: Colors.black,
         title:Text("Fruits-Bill",style: TextStyle(fontSize: 30),),
       ),
       body: SafeArea(
